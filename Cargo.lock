@@ -3367,6 +3367,7 @@ dependencies = [
 [[package]]
 name = "the5thfundamental_common"
 version = "0.0.1"
+source = "git+https://github.com/JJJimbo1/Rts-Game.git#ab81406901aeb1e15f725a8a86b3c876640933ae"
 dependencies = [
  "approx 0.5.1",
  "base64 0.13.1",
@@ -3391,6 +3392,7 @@ dependencies = [
 [[package]]
 name = "the5thfundamental_game"
 version = "0.0.1"
+source = "git+https://github.com/JJJimbo1/Rts-Game.git#ab81406901aeb1e15f725a8a86b3c876640933ae"
 dependencies = [
  "base64 0.13.1",
  "bevy",

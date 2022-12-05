@@ -18,5 +18,4 @@ lto = true
 codegen-units = 1
 
 [dependencies]
-the5thfundamental_game = { path = "../the5thfundamental_bevy/the5thfundamental_game" }
-
+the5thfundamental_game = { git = "https://github.com/JJJimbo1/Rts-Game.git" }
